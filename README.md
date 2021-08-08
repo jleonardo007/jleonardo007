@@ -41,7 +41,7 @@
   <li> Strong focus on problem solving and solutions design with code. 
   <li> Craft react components on weeks and kitchen recipes on weekends.
   <li> Open to help, collaborate and share notes, reach out me! don't be shy.
-  <li> Just another regular linux user (i dont use Arch btw, no yet...)
+  <li> Just another regular linux user (i don't use Arch btw, no yet...)
   <li> 80's music fanboy.
   <li> IoT and embedded systems fanboy (I'm electronic engineer).
   <li> Hope join to Scouting Legion next year.
