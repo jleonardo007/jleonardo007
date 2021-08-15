@@ -34,9 +34,10 @@
     </tbody>
   </table>
 </div>
+<p>Sometimes I write about coding 👨‍💻 at <a href="https://dev.to/jleonardo007" target="_blank">dev.to</a></p>
 
 <h2>More about me 🦉</h2>
-
+ 
 <ul>
   <li> Strong focus on problem solving and solutions design with code. 
   <li> Craft react components on weeks and kitchen recipes on weekends.
