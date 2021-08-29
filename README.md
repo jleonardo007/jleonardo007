@@ -38,9 +38,10 @@
 
 <h2>Currently working on</h2>
 <ul>
-  <li> <a href="https://github.com/jleonardo007/kotta-ui">Kotta-ui<a/><img src="./assets/kotta-logo.svg" style="margin-left:4px" width="15px" title="Kotta-ui"/>
-  <li> <a href="https://github.com/jleonardo007/brain-clash">Brain Clash</a>. This one is a delayed side project but i'll finish it (I swear ✋)
-
+  <li> <a href="https://github.com/jleonardo007/kotta-ui" target="_blank">Kotta-ui.<a/> <img src="./assets/kotta-logo.svg" style="margin-left:6px" width="20px" title="Kotta-ui"/></li>
+  <li> <a href="https://github.com/jleonardo007/brain-clash" target="_blank">Brain Clash.</a> This one is a delayed side project but i'll finish it (I swear ✋)</li>
+</ul>
+    
 <h2>More about me 🦉</h2>
  <ul>
   <li> Strong focus on problem solving and solutions design with code. 
@@ -50,4 +51,4 @@
   <li> 80's music fanboy.
   <li> IoT and embedded systems fanboy (I'm electronic engineer).
   <li> Hope join to Scouting Legion next year.
-<ul>
+</ul>
