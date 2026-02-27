@@ -23,8 +23,8 @@
           <img src="./assets/ts-logo.svg" style="margin-left:8px" width="20px" title="TypeScript"/>
           <img src="./assets/react-logo.svg" style="margin-left:8px" width="20px" title="React"/>
           <img src="./assets/node-logo.svg" style="margin-left:8px" width="20px" title="Nodejs"/>
-          <img src="./assets/mongodb.svg" style="margin-left:8px" width="20px" title="Postgresql"/>
-          <img src="./assets/postgresql.svg" style="margin-left:8px" width="20px" title="MongoDB"/>
+          <img src="./assets/mongodb.svg" style="margin-left:8px" width="20px" title="MongoDB"/>
+          <img src="./assets/postgresql.svg" style="margin-left:8px" width="20px" title="Postgresql"/>
           <img src="./assets/docker-logo.svg" style="margin-left:8px" width="25px" title="Docker"/>
         </td>
         <td>
