@@ -19,6 +19,7 @@
     <tbody>
       <tr>
         <td>
+          <img src="./assets/js-logo.svg" style="margin-left:8px" width="20px" title="JavaScript"/>
           <img src="./assets/ts-logo.svg" style="margin-left:8px" width="20px" title="TypeScript"/>
           <img src="./assets/react-logo.svg" style="margin-left:8px" width="20px" title="React"/>
           <img src="./assets/node-logo.svg" style="margin-left:8px" width="20px" title="Nodejs"/>
